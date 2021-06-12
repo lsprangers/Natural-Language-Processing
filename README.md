@@ -1,4 +1,13 @@
-# Cup a Code: 
+# Cup a Code:  
+      Check out the Wiki for an easier description of project
+___
+___
+___
+
+
+
+
+
 #### PyPi Package
       Online References: 
                   
